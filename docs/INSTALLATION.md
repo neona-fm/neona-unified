@@ -12,7 +12,7 @@
 
 ## Установка
 
-1. Скачайте ZIP из [публичного репозитория](https://github.com/neona-fm/neona-unified/blob/main/dist/NeonaUnified_1.3_No_Auto_Checks.zip) и сохраните его в удобной папке.
+1. Скачайте ZIP из [публичного репозитория](https://github.com/neona-fm/neona-unified/releases/download/v1.3.0/NeonaUnified_1.3_No_Auto_Checks.zip) и сохраните его в удобной папке.
 2. Проверьте SHA-256 ZIP: `e895f6ba810f064aad3d5380dbbab8418a29fb3442c3f74be68fe14cd503e909`. Пример PowerShell: `Get-FileHash -Algorithm SHA256 .\NeonaUnified_1.3_No_Auto_Checks.zip`.
 3. Распакуйте ZIP в **отдельную папку** (сборка не требует установки через MSI).
 4. Проверьте, что Xray и MCP-инфраструктура установлены. В проверенном окружении путь к клиенту был `C:\NeonaMCP\client\tunnel-client-v0.0.20-windows-amd64\tunnel-client.exe`; приложение также пытается найти соседнюю папку `client`.

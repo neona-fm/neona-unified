@@ -6,7 +6,7 @@
 
 ## Скачать
 
-**[Готовая Windows-сборка 1.3 (ZIP)](https://github.com/neona-fm/neona-unified/blob/main/dist/NeonaUnified_1.3_No_Auto_Checks.zip)** · [История релиза](https://github.com/neona-fm/neona-unified/releases/tag/v1.3.0)
+**[Готовая Windows-сборка 1.3 (ZIP)](https://github.com/neona-fm/neona-unified/releases/download/v1.3.0/NeonaUnified_1.3_No_Auto_Checks.zip)** · [История релиза](https://github.com/neona-fm/neona-unified/releases/tag/v1.3.0)
 
 В архиве `NeonaUnified.exe`, исходный код Go и исходная русская документация. Само окно программы написано на Go: **Python для запуска GUI не нужен**. Для работы **Windows MCP-сервера**, если вы его используете, Python всё равно потребуется. Также отдельно нужны Xray-core, официальный `tunnel-client` и настроенные MCP-серверы. **Ключей, VPN-подписок и пользовательских настроек в архиве нет.**
 
