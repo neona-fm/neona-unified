@@ -1,0 +1,21 @@
+# Секреты и локальные состояния — никогда не публиковать
+*.dpapi
+active.json
+probe.json
+settings.json
+*.log
+*.key
+*.pem
+*.pfx
+.env
+.env.*
+profile.dpapi
+# Скомпилированные артефакты — только в релизе dist/
+*.exe
+!dist/*.exe
+# Go/редакторы
+*.test
+*.out
+.vscode/
+.idea/
+.DS_Store
